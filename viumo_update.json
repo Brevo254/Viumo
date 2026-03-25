@@ -3,5 +3,5 @@
   "versionName": "1.0 - beta",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
   "forceUpdate": false,
-  "changelog": "Viumo Beta (Public Release)\n\nThis version marks the beginning of Viumo's public testing phase.\n\n Updates:\n- Faster and more stable streaming\n- Series episodes now supported\n- Improved UI and smoother interactions\n- General bug fixes and performance improvements\n\n Beta Notice:\nThis version is still under active development. Expect minor issues as we refine the system.\n\n The full Viumo experience is coming soon."
+  "changelog": "Viumo 1.0.0 (Official Release)\n\nThis version marks the official launch of Viumo, introducing a more complete and refined streaming experience.\n\nUpdates:\n- Enhanced video player with portrait, landscape, and auto orientation support\n- Improved and consistent user interface across the app\n- Smart movie recommendations after search and viewing\n- Download and watch offline functionality\n- Upgraded search layout and experience\n- General performance improvements and bug fixes\n\nNote:\nViumo is still evolving. Some features are being refined, and more powerful updates are coming soon.\n\nThis release sets the foundation for the future of Viumo."
 }
