@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.0",
+  "versionCode": 4,
+  "versionName": "1.0.1",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
   "forceUpdate": false,
-  "changelog": "Viumo 1.0.0 (Official Release)\n\nThis version marks the official launch of Viumo, introducing a more complete and refined streaming experience.\n\nUpdates:\n- Enhanced video player with portrait, landscape, and auto orientation support\n- Improved and consistent user interface across the app\n- Smart movie recommendations after search and viewing\n- Download and watch offline functionality\n- Upgraded search layout and experience\n- General performance improvements and bug fixes\n\nNote:\nViumo is still evolving. Some features are being refined, and more powerful updates are coming soon.\n\nThis release sets the foundation for the future of Viumo."
+  "changelog": "Viumo 1.0.1\n\n- Fixed critical crash affecting some devices\n- Added resumable video playback\n- Improved episode loading and detail view stability\n\nStability-focused update for a smoother viewing experience."
 }
