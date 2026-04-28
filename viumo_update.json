@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.1",
+  "versionCode": 5,
+  "versionName": "1.0.2",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "changelog": "Viumo 1.0.1\n\n- Fixed critical crash affecting some devices\n- Added resumable video playback\n- Improved episode loading and detail view stability\n\nStability-focused update for a smoother viewing experience."
 }
