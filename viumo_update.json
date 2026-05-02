@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.3",
+  "versionCode": 7,
+  "versionName": "1.0.4",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": true,
-  "changelog": "Viumo 1.0.3\n\nThis is not just an update.\nThis is an evolution.\n\n- Search that remembers you\n- Instant access to what you’ve looked for before\n- Scroll freely without losing loaded content\n- Faster access. Less data usage. Smoother experience.\n\nViumo now works with your memory, your time, and your internet."
+  "forceUpdate": false,
+  "changelog": "Viumo 1.0.4\n\nSmarter streaming has arrived.\n\n- Switch video quality while watching, based on your internet\n- No more accidental touches during playback\n- Improved player stability and bug fixes from user feedback\n- Built-in monitoring to quickly detect and fix problem areas\n\nStream freely without constant downloads.\nViumo adapts to you in real time."
 }
