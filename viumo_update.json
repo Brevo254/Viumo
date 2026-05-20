@@ -2,6 +2,6 @@
   "versionCode": 8,
   "versionName": "1.0.5",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "changelog": "Viumo 1.0.5\n\nYour watch experience, upgraded.\n\n- Continue watching — pick up right where you left off, no searching needed\n\n- Subtitles now available for online viewers\n\n- Immersive watch mode for a full focus experience\n\n- Stabilised picture-in-picture (PiP) for smooth background viewing\n\n- Bug report and Help Center in your profile — reach us instantly\n\nViumo remembers where you are.\n\nKeep watching, keep enjoying."
 }
