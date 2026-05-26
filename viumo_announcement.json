@@ -1,7 +1,7 @@
 {
-  "id": "2026-05-20-01",
-  "date": "2026-05-20",
-  "title": "Update Installation Help",
-  "message": "Dear Viumo User,\n\nIf you experience any difficulty installing the latest update, this can usually be resolved by uninstalling the current version and reinstalling the app or clearing the app data and cache alongside your movies.\n\nWe also recommend ensuring your device has sufficient free storage space before updating for the smoothest installation experience.\n\nThank you for staying up to date with Viumo.",
-  "button": "GOT IT"
+  "id": "2026-05-26-01",
+  "date": "2026-05-26",
+  "title": "Important Update Notice",
+  "message": "Dear Viumo User,\n\nAn upcoming Viumo update (Version 1.0.6) will introduce important improvements to downloads, storage handling, and overall app stability.\n\nAs part of these changes, previously downloaded offline content may be cleared after updating. Your Downloads and Library sections may appear empty once the new version is installed.\n\nIf you currently have movies or series downloaded for offline viewing, we recommend finishing them before updating to Version 1.0.6.\n\nAfter updating, you may need to download your offline content again using the improved download system.\n\nWe also recommend ensuring your device has enough free storage space before installing the update.\n\nThank you for supporting Viumo as we continue improving your streaming experience.",
+  "button": "UNDERSTOOD"
 }
