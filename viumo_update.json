@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.5",
+  "versionCode": 9,
+  "versionName": "1.0.6",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
   "forceUpdate": false,
-  "changelog": "Viumo 1.0.5\n\nYour watch experience, upgraded.\n\n- Continue watching — pick up right where you left off, no searching needed\n\n- Subtitles now available for online viewers\n\n- Immersive watch mode for a full focus experience\n\n- Stabilised picture-in-picture (PiP) for smooth background viewing\n\n- Bug report and Help Center in your profile — reach us instantly\n\nViumo remembers where you are.\n\nKeep watching, keep enjoying."
+  "changelog": "Viumo 1.0.6\n\nStreaming was only the beginning.\n\n- Watch movies and series together in Rooms\n\n- Create your profile and keep your Viumo experience with you\n\n- Save what you love and pick up where you left off\n\n- Faster, smoother, and more reliable playback\n\nThis update remains optional while we continue improving the experience.\nWelcome to the next chapter of Viumo.\nKeep watching, keep enjoying."
 }
