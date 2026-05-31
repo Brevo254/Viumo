@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.6",
+  "versionCode": 10,
+  "versionName": "1.0.7",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": true,
-  "changelog": "Viumo 1.0.6\n\nStreaming was only the beginning.\n\n- Watch movies and series together in Rooms\n\n- Create your profile and keep your Viumo experience with you\n\n- Save what you love and pick up where you left off\n\n- Faster, smoother, and more reliable playback\n\n\nWelcome to the next chapter of Viumo.\nKeep watching, keep enjoying."
+  "forceUpdate": false,
+  "changelog": "Viumo 1.0.7\n\nBuilt for smoother streaming.\n\n- Improved player reliability\n\n- Enhanced playback performance\n\n- Faster issue detection and resolution\n\n- Stability improvements across the app\n\n\nThank you for helping us make Viumo better.\n"
 }
