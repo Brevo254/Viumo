@@ -1,7 +1,7 @@
 {
   "id": "2026-06-01-01",
   "date": "2026-06-01",
-  "title": "Playback Service Notice",
-  "message": "Dear Viumo User,\n\nWe are aware that some users may occasionally experience playback issues when trying to watch certain movies or series.\n\nOur investigation has shown that these interruptions are primarily affecting specific regions and network providers, where some streaming sources may be temporarily unavailable or restricted.\n\nPlease note that this does not affect all content and does not indicate a problem with your device.\n\nOur team is actively working on improvements that will help Viumo automatically recover from these situations and provide a smoother viewing experience.\n\nWe appreciate your patience and continued support as we work to improve reliability for all users.\n\nThank you for choosing Viumo.",
+  "title": "Temporary Shutdown",
+  "message": "Dear User,\n\nWe are experiencing some issues with our search function. It is under review and will be expected back online soon.",
   "button": "UNDERSTOOD"
 }
