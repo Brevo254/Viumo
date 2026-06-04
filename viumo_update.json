@@ -3,5 +3,5 @@
   "versionName": "1.0.8",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
   "forceUpdate": false,
-  "changelog": "Viumo 1.0.8\n\n⚠️ Warning\n\nTo support the new download system, Viumo will clear existing downloaded content during this update. Any videos saved for offline viewing will need to be downloaded again.n\n-Major Bug Fixes\n"
+  "changelog": "Viumo 1.0.8\n\n⚠️ Warning\n\nTo support the new download system, Viumo will clear existing downloaded content during this update. Any videos saved for offline viewing will need to be downloaded again.\n\n-Major Bug Fixes\n"
 }
