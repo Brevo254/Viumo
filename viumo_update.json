@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.8",
+  "versionCode": 12,
+  "versionName": "1.0.9",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": false,
-  "changelog": "Viumo 1.0.8\n\n⚠️ Warning\n\nTo support the new download system, Viumo will clear existing downloaded content during this update. Any videos saved for offline viewing will need to be downloaded again.\n\n-Major Bug Fixes\n"
+  "forceUpdate": true,
+  "changelog": "Viumo 1.0.9\n\n⚠️ Important Update\n\nThis update is required to ensure Viumo continues to work reliably across all features and services.\n\nPlease Note:\n\nUsers updating from Viumo 1.0.7 or earlier may have existing downloaded content cleared as part of the download system transition. Offline videos may need to be downloaded again. Users already on Viumo 1.0.8 are not affected.\n"
 }
