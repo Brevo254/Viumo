@@ -2,6 +2,6 @@
   "versionCode": 13,
   "versionName": "1.1.0",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": false,
-  "changelog": "VIUMO v1.1.0 • The Grand Milestone Update 🎉\n\nWe are thrilled to present the official, fully completed production release of Viumo! This update brings the core vision of your ultimate streaming companion to life, completely optimized and fully operational.\n\nWhat's New:\n• Expanded Catalog: Dive into fully completed categories including Hollywood, Nollywood, Trending, and Latest releases.\n• Under the Hood: Major performance optimizations and a fully finalized feature ecosystem for a seamless streaming experience.\n\n⚠️ IMPORTANT NOTE ON DOWNLOADS:\nIf you are updating from Viumo 1.0.7 or earlier, older offline videos will be cleared due to our upgraded download architecture and will need to be re-downloaded. Users already on v1.0.8 or 1.0.9 are completely unaffected.\n\nEnjoy the seamless premium experience!"
+  "forceUpdate": true,
+  "changelog": "VIUMO v1.1.0 • The Milestone Release! 🎉\n\nOur core features are fully complete! This official update delivers a finalized, seamless streaming experience.\n\nWhat's New:\n• Fully completed categories: Hollywood, Nollywood, Trending, and Latest.\n• System-wide performance & stability optimizations.\n\n⚠️ Note: Updating from v1.0.7 or earlier will clear older downloaded videos due to system upgrades. Users on v1.0.8/1.0.9 are unaffected."
 }
