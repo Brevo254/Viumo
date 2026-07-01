@@ -1,7 +1,21 @@
 {
-  "id": "2026-06-06-02",
-  "date": "2026-06-06",
-  "title": "Temporary Shutdown",
-  "message": "Dear User,\n\nWe are sorry for the inconvenience the geo-restriction has caused to our international users. We are working to solve this issue. Please be patient as a new working update is set for release",
+  "id": "2026-07-01-01",
+  "date": "2026-07-01",
+  "title": "New Video Player Interface ✨",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Dear user,\n\nBased on your valuable feedback, we are introducing a completely redesigned video player interface! This upgrade brings a sleeker, more immersive look to your streaming experience.\n\nRest assured, your downloaded content will not be impacted by this change."
+    },
+    {
+      "type": "link",
+      "label": "Need help? Contact support",
+      "url": "viumoservices@gmail.com"
+    },
+    {
+      "type": "text",
+      "content": "We always strive to listen to our community and build a better experience for you. Thank you for being a part of the Viumo journey!"
+    }
+  ],
   "button": "UNDERSTOOD"
 }
