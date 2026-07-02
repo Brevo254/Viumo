@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.0",
+  "versionCode": 14,
+  "versionName": "1.1.1",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": true,
-  "changelog": "VIUMO v1.1.0 • The Milestone Release! 🎉\n\nOur core features are fully complete! This official update delivers a finalized, seamless streaming experience.\n\nWhat's New:\n• Fully completed categories: Hollywood, Nollywood, Trending, and Latest.\n• System-wide performance & stability optimizations.\n\n⚠️ Note: Updating from v1.0.7 or earlier will clear older downloaded videos due to system upgrades. Users on v1.0.8/1.0.9 are unaffected."
+  "forceUpdate": false,
+  "changelog": "VIUMO v1.1.1 • The Milestone Release! 🎉\n\nThis official update introduces a modernized, next-level streaming experience.\n\nWhat's New:\n• Next-Gen Video Player: Redesigned for maximum stability, smoother playback, and a premium look.\n• Auto-Subtitles: Subtitles now download automatically alongside your movies.\n• Seamless Series Binging: Watch the next episode instantly without ever leaving the player.\n\n⚠️ Note: Updating from v1.0.7 or earlier will clear older downloaded videos due to system upgrades."
 }
