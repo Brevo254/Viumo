@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.1",
+  "versionCode": 15,
+  "versionName": "1.1.2",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
   "forceUpdate": false,
-  "changelog": "VIUMO v1.1.1 • The Milestone Release! 🎉\n\nThis official update introduces a modernized, next-level streaming experience.\n\nWhat's New:\n• Next-Gen Video Player: Redesigned for maximum stability, smoother playback, and a premium look.\n• Auto-Subtitles: Subtitles now download automatically alongside your movies.\n• Seamless Series Binging: Watch the next episode instantly without ever leaving the player.\n\n⚠️ Note: Updating from v1.0.7 or earlier will clear older downloaded videos due to system upgrades."
+  "changelog": "VIUMO v1.1.2 • Final Trilogy: Part 1 🛠️\n\nWe are rolling out the first of our final three stability updates for the year, focusing entirely on making your experience flawless and reliable.\n\nWhat's New:\n• Rock-Solid Playback: Fixed underlying streaming bugs to eliminate playback errors.\n• Smart Downloads: Faster download speeds and improved, auto-retrying file handling for network drops.\n• UI Refinements: Minor interface polishes for a cleaner, snappier feel.\n\nEnjoy a smoother, uninterrupted streaming experience!"
 }
