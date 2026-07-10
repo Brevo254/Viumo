@@ -1,20 +1,20 @@
 {
-  "id": "2026-07-01-01",
-  "date": "2026-07-01",
-  "title": "New Video Player Interface ✨",
+  "id": "2026-07-10-01",
+  "date": "2026-07-10",
+  "title": "An Update on the Future of Viumo 🚀",
   "blocks": [
     {
       "type": "text",
-      "content": "Dear user,\n\nBased on your valuable feedback, we are introducing a completely redesigned video player interface! This upgrade brings a sleeker, more immersive look to your streaming experience.\n\nRest assured, your downloaded content will not be impacted by this change."
-    },
-    {
-      "type": "link",
-      "label": "Need help? Contact support",
-      "url": "viumoservices@gmail.com"
+      "content": "Dear Viumo Family,\n\nWe have officially reached our major development milestone, and the app is now fully featured and stable! As our solo developer transitions into a new full-time role, the pace of new feature updates will naturally slow down. \n\nHowever, please rest assured: Viumo is NOT going anywhere. The app remains under active maintenance to ensure your streaming stays smooth and uninterrupted."
     },
     {
       "type": "text",
-      "content": "We always strive to listen to our community and build a better experience for you. Thank you for being a part of the Viumo journey!"
+      "content": "Viumo has always been a free, passion-driven project. If you love the app and want to support our server costs, any voluntary contributions or tips are deeply appreciated to help keep the platform alive.\n\n🤝 Call to Developers: If you are a developer and want to team up or explore a joint venture to help expand Viumo, we would love to connect!"
+    },
+    {
+      "type": "link",
+      "label": "Chat with us or Support on WhatsApp",
+      "url": "https://wa.me/254797753972"
     }
   ],
   "button": "UNDERSTOOD"
