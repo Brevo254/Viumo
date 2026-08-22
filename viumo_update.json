@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.3",
+  "versionCode": 17,
+  "versionName": "1.1.4",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
   "forceUpdate": false,
-  "changelog": "VIUMO v1.1.3 • Final Trilogy: Part 2 📺\n\nOur biggest feature drop yet is live!\n\nWhat's New:\n• VIUMO Cast: Stream seamlessly to our brand-new TV app!\n• New Explore Page: Browse deep categories (Animation, Horror & more).\n• Smarter Downloads: Solidified resume, and file handling.\n\nEnjoy the upgrade!"
+  "changelog": "VIUMO v1.1.4 • Maintenance & Reliability Update 🛠️\n\nWe've listened, investigated, fixed, and tested. This update focuses on resolving the issues reported by the Viumo community and making the overall experience more reliable.\n\nWhat's Fixed:\n• Fixed an issue that could cause the Movie Details screen to crash for some users.\n• Fixed Continue Watching and resume behavior, including the Next Episode flow after resuming an episode.\n• Improved Continue Watching titles and navigation so it's easier to identify exactly where you left off.\n• Addressed reported playback and navigation issues discovered during testing.\n\nA special thank you to the Viumo user who submitted a detailed report, reproduction steps, and thoughtful suggestions.❤️\n\nYour suggestion for a better language-selection experience has also been heard and will be considered as a future improvement.\n\nThank you for helping us make Viumo better. 🚀"
 }
