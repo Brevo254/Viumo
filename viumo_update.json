@@ -2,6 +2,6 @@
   "versionCode": 17,
   "versionName": "1.1.4",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "changelog": "VIUMO v1.1.4 • Maintenance & Reliability Update 🛠️\n\nWhat's Fixed:\n• Resolved Movie Details screen crash.\n• Fixed Continue Watching resume and Next Episode flow.\n• Improved Continue Watching titles and navigation.\n• General playback and stability fixes.\n\nA special thank you to the Viumo user who submitted a detailed report, reproduction steps, and thoughtful suggestions.❤️\n\nThanks to our community for the feedback! 🚀"
 }
