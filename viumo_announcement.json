@@ -1,15 +1,15 @@
 {
-  "id": "2026-08-22-01",
-  "date": "2026-08-22",
-  "title": "Viumo 1.1.4 — Maintenance & Bug Fix Update 🛠️",
+  "id": "2026-08-28-01",
+  "date": "2026-08-28",
+  "title": "Viumo 1.1.5 — You Asked, We Built! 🚀",
   "blocks": [
     {
       "type": "text",
-      "content": "Dear Viumo Family,\n\nWe want to let you know that Viumo version 1.1.4 is currently being prepared as a focused maintenance and bug-fix update.\n\nWe've received reports from users experiencing issues when opening movie details, as well as an issue affecting the Next Episode button after resuming previously watched episodes. We're looking into these issues carefully so that the patch addresses the underlying problems rather than simply masking the symptoms.\n\nVersion 1.1.4 will therefore focus primarily on reliability, playback flow, and fixing reported issues rather than introducing major new features."
+      "content": "Dear Viumo Family,\n\nYou talked, and we listened! Following your feedback, version 1.1.5 is officially live, packed with the exact fixes and improvements you requested.\n\nHere is what’s new in this release:\n\n• Seamless Episode Resuming: Online playback now accurately saves your progress, letting you pick up right where you left off and jump straight to the next episode.\n• Offline Subtitles, Perfected: Downloaded content now supports subtitles seamlessly with transparent backgrounds—no more annoying dark overlays blocking your screen.\n• Complete Download Control: You can now choose how many simultaneous downloads to run at once.\n• Smart Storage & Cleanups: Say goodbye to broken files! Viumo now automatically purges empty/corrupted downloads, offers an auto-delete option for finished movies, and introduces a cleaner, more intuitive Delete UI."
     },
     {
       "type": "text",
-      "content": "A special thank you to the Viumo user who submitted a detailed report including their device information, reproduction steps, and suggestions. Reports like this make it much easier for us to understand problems that may not appear during our own testing.\n\nYour suggestion regarding language selection — particularly for shows available in different languages such as Hindi — has also been noted. We appreciate the idea and will evaluate it separately as a future improvement."
+      "content": "A huge thank you to everyone who took the time to report bugs and share suggestions. Your detailed feedback directly shaped every single feature in this build.\n\nKeep the feedback coming, enjoy the upgrade, and happy streaming!"
     },
     {
       "type": "link",
@@ -17,5 +17,5 @@
       "url": "https://wa.me/254797753972"
     }
   ],
-  "button": "UNDERSTOOD"
+  "button": "EXPLORE 1.1.5"
 }
