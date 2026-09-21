@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.1.5",
+  "versionCode": 19,
+  "versionName": "1.1.6",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
   "forceUpdate": true,
-  "changelog": "VIUMO v1.1.5 • User-Requested Overhaul 🚀\n\nWhat's New & Fixed:\n• Seamless episode resuming & Next Episode flow.\n• Offline subtitles now fully supported with transparent overlays.\n• Custom simultaneous download limits.\n• Auto-delete finished movies & empty corrupted file cleanup.\n• Redesigned Delete UI.\n\nBuilt directly from your feedback. Thank you for making Viumo better! ❤️"
+  "changelog": "VIUMO v1.1.6 • Major Upgrade! 🚀🔥\n\nWhat’s New:\n🎬 Redesigned Player UI & smoother controls\n🍿 Unlocked more movies & series\n⚡ Boost downloads (1–5) in Profile Settings\n🔐 Easy email/password recovery & account tools\n🔍 Faster search & critical crash fixes\n\nLove Viumo? Share it with your friends! ❤️"
 }
