@@ -1,15 +1,15 @@
 {
   "id": "2026-09-23-01",
   "date": "2026-09-23",
-  "title": "Viumo 1.1.6 — More Control, More Content! 🚀",
+  "title": "Viumo 1.1.6 — Bigger, Sleeker & Powered by You! 🔥🚀",
   "blocks": [
     {
       "type": "text",
-      "content": "Dear Viumo Family,\n\nVersion 1.1.6 is officially here! We’ve packed this release with expanded content, account safety tools, new settings customization, and a freshly redesigned player.\n\nHere’s everything new in this update:\n\n• Redesigned Player Experience: Enjoy a brand-new player UI built for better aesthetics, smoother controls, and enhanced functionality.\n• Expanded Library Access: Stream and download even more content, including titles that were previously unavailable.\n• Account & Recovery Controls: Complete ownership over your profile—you can now easily recover forgotten emails/passwords or permanently delete your account anytime.\n• Profile & Settings Hidden Gems: Customize your experience! You can now adjust your simultaneous download limit (from 1 up to 5) and toggle auto-delete to clear completed movies automatically.\n• Smarter Search & Stability: Faster, more accurate search results to help you find titles instantly, alongside major crash fixes for a seamless streaming experience."
+      "content": "Dear Viumo Family,\n\nWe’ve been working behind the scenes to bring you our biggest and slickest release yet! Version 1.1.6 is officially live, loaded with fresh titles, powerful new controls, and a complete makeover.\n\nHere’s what’s waiting for you inside:\n\n• Next-Level Player UI 🎬: A brand-new, ultra-sleek player interface designed for smoother controls, faster response, and a true cinematic experience.\n• Unlocked Content & Smarter Search 🔍: We’ve opened up our library! Stream and download previously unavailable titles, and find your favorite movies faster than ever with our upgraded search engine.\n• Power-User Settings ⚡: Did you know you can unlock up to 5 simultaneous downloads? Head to Settings under your Profile to boost your download limits and turn on Auto-Delete to clean up completed movies effortlessly.\n• Account Safety & Recovery 🔐: Enjoy total peace of mind with instant email/password recovery and full control over your account management.\n• Rock-Solid Stability 🛠️: We squashed the pesky bugs and crashes to make sure your streaming stays buttery smooth."
     },
     {
       "type": "text",
-      "content": "Thank you for continuing to stream with Viumo and sharing your feedback to make the app better with every build.\n\nUpdate now, explore the new player, and happy streaming!"
+      "content": "Love the new look and features? Don’t keep Viumo a secret! Share the app with your friends, binge together, and keep telling us what you’d like to see next.\n\nUpdate now, jump in, and happy streaming! 🍿"
     },
     {
       "type": "link",
@@ -17,5 +17,5 @@
       "url": "https://wa.me/254797753972"
     }
   ],
-  "button": "EXPLORE 1.1.6"
+  "button": "EXPLORE 1.1.6 NOW"
 }
