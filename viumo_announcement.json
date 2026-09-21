@@ -1,15 +1,15 @@
 {
-  "id": "2026-08-28-01",
-  "date": "2026-08-28",
-  "title": "Viumo 1.1.5 — You Asked, We Built! 🚀",
+  "id": "2026-09-23-01",
+  "date": "2026-09-23",
+  "title": "Viumo 1.1.6 — More Control, More Content! 🚀",
   "blocks": [
     {
       "type": "text",
-      "content": "Dear Viumo Family,\n\nYou talked, and we listened! Following your feedback, version 1.1.5 is officially live, packed with the exact fixes and improvements you requested.\n\nHere is what’s new in this release:\n\n• Seamless Episode Resuming: Online playback now accurately saves your progress, letting you pick up right where you left off and jump straight to the next episode.\n• Offline Subtitles, Perfected: Downloaded content now supports subtitles seamlessly with transparent backgrounds—no more annoying dark overlays blocking your screen.\n• Complete Download Control: You can now choose how many simultaneous downloads to run at once.\n• Smart Storage & Cleanups: Say goodbye to broken files! Viumo now automatically purges empty/corrupted downloads, offers an auto-delete option for finished movies, and introduces a cleaner, more intuitive Delete UI."
+      "content": "Dear Viumo Family,\n\nVersion 1.1.6 is officially here! We’ve packed this release with expanded content, account safety tools, new settings customization, and a freshly redesigned player.\n\nHere’s everything new in this update:\n\n• Redesigned Player Experience: Enjoy a brand-new player UI built for better aesthetics, smoother controls, and enhanced functionality.\n• Expanded Library Access: Stream and download even more content, including titles that were previously unavailable.\n• Account & Recovery Controls: Complete ownership over your profile—you can now easily recover forgotten emails/passwords or permanently delete your account anytime.\n• Profile & Settings Hidden Gems: Customize your experience! You can now adjust your simultaneous download limit (from 1 up to 5) and toggle auto-delete to clear completed movies automatically.\n• Smarter Search & Stability: Faster, more accurate search results to help you find titles instantly, alongside major crash fixes for a seamless streaming experience."
     },
     {
       "type": "text",
-      "content": "A huge thank you to everyone who took the time to report bugs and share suggestions. Your detailed feedback directly shaped every single feature in this build.\n\nKeep the feedback coming, enjoy the upgrade, and happy streaming!"
+      "content": "Thank you for continuing to stream with Viumo and sharing your feedback to make the app better with every build.\n\nUpdate now, explore the new player, and happy streaming!"
     },
     {
       "type": "link",
@@ -17,5 +17,5 @@
       "url": "https://wa.me/254797753972"
     }
   ],
-  "button": "EXPLORE 1.1.5"
+  "button": "EXPLORE 1.1.6"
 }
