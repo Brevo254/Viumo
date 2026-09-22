@@ -2,6 +2,6 @@
   "versionCode": 19,
   "versionName": "1.1.6",
   "apkUrl": "https://pub-655df1fb02cc4bedbf3c5c50e396886c.r2.dev/app-release.apk",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "changelog": "VIUMO v1.1.6 • Major Upgrade! 🚀🔥\n\nWhat’s New:\n🎬 Redesigned Player UI & smoother controls\n🍿 Unlocked more movies & series\n⚡ Boost downloads (1–5) in Profile Settings\n🔐 Easy email/password recovery & account tools\n🔍 Faster search & critical crash fixes\n\nLove Viumo? Share it with your friends! ❤️"
 }
