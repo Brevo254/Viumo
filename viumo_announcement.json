@@ -1,15 +1,15 @@
 {
-  "id": "2026-09-23-01",
-  "date": "2026-09-23",
-  "title": "Viumo 1.1.6 — Bigger, Sleeker & Powered by You! 🔥🚀",
+  "id": "2026-09-27-01",
+  "date": "2026-09-27",
+  "title": "Sneak Peek: Live Sports is Coming to Viumo! ⚽🔥🚀",
   "blocks": [
     {
       "type": "text",
-      "content": "Dear Viumo Family,\n\nWe’ve been working behind the scenes to bring you our biggest and slickest release yet! Version 1.1.6 is officially live, loaded with fresh titles, powerful new controls, and a complete makeover.\n\nHere’s what’s waiting for you inside:\n\n• Next-Level Player UI 🎬: A brand-new, ultra-sleek player interface designed for smoother controls, faster response, and a true cinematic experience.\n• Unlocked Content & Smarter Search 🔍: We’ve opened up our library! Stream and download previously unavailable titles, and find your favorite movies faster than ever with our upgraded search engine.\n• Power-User Settings ⚡: Did you know you can unlock up to 5 simultaneous downloads? Head to Settings under your Profile to boost your download limits and turn on Auto-Delete to clean up completed movies effortlessly.\n• Account Safety & Recovery 🔐: Enjoy total peace of mind with instant email/password recovery and full control over your account management.\n• Rock-Solid Stability 🛠️: We squashed the pesky bugs and crashes to make sure your streaming stays buttery smooth."
+      "content": "Dear Viumo Family,\n\nYou flooded our inbox, you dropped the requests, and we heard you loud and clear! 👂🔥\n\nWe are thrilled to give you a secret sneak peek into our upcoming major release: **LIVE SPORTS IS OFFICIALLY ON THE WAY!** ⚽🥊🏀\n\nIn our next update, you will be able to watch live sporting events as they unfold—second by second—right inside Viumo. We’re placing a dedicated **Live Sports** section directly inside your **Profile** menu for instant access."
     },
     {
       "type": "text",
-      "content": "Love the new look and features? Don’t keep Viumo a secret! Share the app with your friends, binge together, and keep telling us what you’d like to see next.\n\nUpdate now, jump in, and happy streaming! 🍿"
+      "content": "⚡ **Help Us Hit 500 Users Before Kickoff!**\nWe are currently fine-tuning high-speed streams behind the scenes to guarantee zero buffering when game time hits. \n\nWhile we finish building, we need your help! Viumo is still intimate, lean, and growing—we are closing in on our **500-user milestone**. Features like this take massive effort, and we want to launch this for our biggest crowd yet.\n\nDo not keep Viumo a secret! Share the app with your group chats, friends, and matchday crew today so everyone is ready when the next update drops. 🍿⚽"
     },
     {
       "type": "link",
@@ -17,5 +17,5 @@
       "url": "https://wa.me/254797753972"
     }
   ],
-  "button": "EXPLORE 1.1.6 NOW"
+  "button": "STAY TUNED FOR UPDATE ⚽"
 }
