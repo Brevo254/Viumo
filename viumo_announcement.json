@@ -1,11 +1,11 @@
 {
-  "id": "2026-10-02-01",
-  "date": "2026-10-02",
-  "title": "Quick Update: Watch Parties",
+  "id": "2026-10-08-01",
+  "date": "2026-10-08",
+  "title": "VIUMO SERVICE UPDATE",
   "blocks": [
     {
       "type": "text",
-      "content": "🍿 **A Quick Note on Watch Party Rooms**\nWe noticed a few of you accidentally creating Watch Party Rooms while tapping to download videos! 😅 \n\nIf you find yourself solo in a room, **Rooms** are designed for streaming together with friends by sharing your room link or code. If you just want to watch or download on your own, you can stream directly from the main player screen. We are adjusting the UI layout in the next update to give the buttons more breathing room!"
+      "content": "🛠️ **VIUMO Service Update**\n\nWe sincerely apologise for the inconvenience caused by some sections and features of VIUMO not working as expected.\n\nWe acknowledge these issues and deeply appreciate your patience and continued support. Improvements and fixes are currently underway, and we're working hard on a new update to make your VIUMO experience smoother and more reliable.\n\nThank you for growing with us—we truly appreciate having you on this journey! ❤️\n\n— *The VIUMO Team"
     },
     {
       "type": "link",
@@ -13,5 +13,5 @@
       "url": "https://wa.me/254797753972"
     }
   ],
-  "button": "GOT IT, THANKS! 🚀"
+  "button": "UNDERSTOOD, THANKS! 🚀"
 }
